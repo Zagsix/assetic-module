@@ -1,5 +1,5 @@
 {
-    "name": "fabiang/assetic-module",
+    "name": "zagsix/assetic-module",
     "type": "library",
     "description": "Zend Framework/Laminas module that provides complete integration of Assetic library",
     "keywords": [
